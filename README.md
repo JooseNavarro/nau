@@ -4,6 +4,12 @@ Bienvenido al panel de gestión de órdenes de **NAU**.
 Aquí puedes visualizar, filtrar y actualizar el estado de las órdenes de importación de forma sencilla y rápida.  
 Haz clic en una referencia para ver más detalles o cambiar el estado desde el listado.
 
+🔗 [Ver aplicación](https://nu-tau-one.vercel.app/)
+
+![App](https://raw.githubusercontent.com/JooseNavarro/nau/main/public/nu.png)
+
+![GraphQL](https://raw.githubusercontent.com/JooseNavarro/nau/main/public/gql.png)
+
 ## Tecnologías utilizadas
 
 - **Next.js 15**
